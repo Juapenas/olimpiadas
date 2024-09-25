@@ -65,7 +65,7 @@
     height: 2px;
     bottom: -5px;
     left: 0;
-    background-color: #fff;
+    background-color: #d7c379;
     visibility: hidden;
     width: 0px;
     transition: all 0.3s ease-in-out 0s;
@@ -123,4 +123,11 @@ footer{
 
 #footer-copyright{
     padding-left: 20rem;
+}
+
+#titles{
+    font-family: 'Poppins';
+    font-size: 20px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
 }
