@@ -232,5 +232,6 @@ footer{
 
 .img-volei{
     width: 50%;
-    align-itens: center;
+    display: block;
+    margin: auto;
 }
