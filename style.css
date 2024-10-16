@@ -232,10 +232,12 @@ footer{
 
 #img-fundamentos{
     width: 50%;
-    align-itens: center;
+    display: flex;
+    justify-content: center;
 }
 
 #img-areaquadra{
     width: 50%;
-    align-itens: center;
+    display: flex;
+    justify-content: center;
 }
