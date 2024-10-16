@@ -230,13 +230,13 @@ footer{
     border: solid 2px #fff;
 }
 
-#img-fundamentos{
+.img-fundamentos{
     width: 50%;
     display: flex;
     justify-content: center;
 }
 
-#img-areaquadra{
+.img-areaquadra{
     width: 50%;
     display: flex;
     justify-content: center;
