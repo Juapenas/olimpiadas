@@ -232,8 +232,5 @@ footer{
 
 .img-volei{
     width: 50%;
-    display:         flex;
-    display: -webkit-flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 }
