@@ -232,7 +232,7 @@ footer{
 
 .img-volei{
     width: 50%;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
