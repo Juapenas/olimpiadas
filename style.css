@@ -329,3 +329,40 @@ footer img:hover{
     transform: scale(1.1);
     transition-duration: 2s;
 }
+
+.medals-table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: black;
+	margin-bottom: 7rem;
+}
+
+.medals-table th, .medals-table td {
+    border: 0px solid #ddd;
+    padding: 8px;
+    text-align: center;
+	color: white;
+	font-family: "Gotham";
+	font-weight: bold;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.medals-table th {
+    background-color: #d7c379;
+    color: black;
+	font-family: "Gotham";
+	font-weight: bold;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.medals-table tr:nth-child(even) {
+    background-color: #141414;
+	color: white;
+	font-family: "Gotham";
+	font-weight: bold;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
